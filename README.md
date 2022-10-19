@@ -1,2 +1,2 @@
 # api-schedule-tests-junit-mockito
-Project maked for learning more about JUNIT and Mockito.
+Project WebService maked for learning with Spring Boot, JUNIT and Mockito.
